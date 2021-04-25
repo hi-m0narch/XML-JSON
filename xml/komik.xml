@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<list>
+    <komik id='k01'>
+        <judul>Attack On Titan</judul>
+        <pengarang>Hajime Isiyama</pengarang>
+        <tipe>Manga</tipe>
+        <genre>Action</genre>
+        <rilis>2009</rilis>
+    </komik>
+    <komik id='k02'>
+        <judul>Solo Leveling</judul>
+        <pengarang>Chugong</pengarang>
+        <tipe>Manhwa</tipe>
+        <genre>Action</genre>
+        <rilis>2018</rilis>
+    </komik>
+    <komik id='k03'>
+        <judul>Toukyou Revengers</judul>
+        <pengarang>Wakui Ken</pengarang>
+        <tipe>Manga</tipe>
+        <genre>Action, Drama</genre>
+        <rilis>2017</rilis>
+    </komik>
+    <komik id='k04'>
+        <judul>Shokugeki no Soma</judul>
+        <pengarang>Tsukuda Yuuto</pengarang>
+        <tipe>Manga</tipe>
+        <genre>Cooking</genre>
+        <rilis>2012</rilis>
+    </komik>
+    <komik id='k05'>
+        <judul>One Piece</judul>
+        <pengarang>Eiichiro Oda</pengarang>
+        <tipe>Manga</tipe>
+        <genre>Action, Adventure</genre>
+        <rilis>1997</rilis>
+    </komik>
+    <komik id='k06'>
+        <judul>Lord of Money</judul>
+        <pengarang>Mujang</pengarang>
+        <tipe>Manhwa</tipe>
+        <genre>Action, Webtoons</genre>
+        <rilis>2020</rilis>
+    </komik>
+    <komik id='k07'>
+        <judul>Again My Life</judul>
+        <pengarang>Eogein Mai Laipeu</pengarang>
+        <tipe>Manhwa</tipe>
+        <genre>Action, Drama</genre>
+        <rilis>2019</rilis>
+    </komik>
+</list>

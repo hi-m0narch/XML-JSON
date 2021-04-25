@@ -1,0 +1,32 @@
+[
+    {
+        "nama":"Abdullah Hibar Gumilang",
+        "npm":"187006044",
+        "jenis_kelamin":"laki-laki",
+        "kelompok_keahlian":"STI"
+    },
+    {
+        "nama":"Angga Sinjaya",
+        "npm":"187006054",
+        "jenis_kelamin":"laki-laki",
+        "kelompok_keahlian":"JKF"
+    },
+    {
+        "nama":"Dheni Septian N",
+        "npm":"187006105",
+        "jenis_kelamin":"laki-laki",
+        "kelompok_keahlian":"TMG"
+    },
+    {
+        "nama":"Rifky Ramandika",
+        "npm":"187006049",
+        "jenis_kelamin":"laki-laki",
+        "kelompok_keahlian":"STI"
+    },
+    {
+        "nama":"Faisal Baihaqi Y",
+        "npm":"187006065",
+        "jenis_kelamin":"laki-laki",
+        "kelompok_keahlian":"TMG"
+    }
+]
